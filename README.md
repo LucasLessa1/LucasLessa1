@@ -1,7 +1,7 @@
 ### Hi, I am Lucas Lessa!!
 
 - 🔭 I’m currently studying at Universidade de Brasília
-- 📫 How to reach me: lucaslessaeco@gmail.com
+- 📫 How to reach me: lucasslessaeng@gmail.com
 <!--
 <div align="center">
   <a href="https://github.com/LucasLessa1">
